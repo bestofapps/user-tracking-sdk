@@ -1,0 +1,16 @@
+{
+  "name": "@cliqdigital/user-tracking-sdk",
+  "version": "1.0.0",
+  "description": "Lightweight user tracking SDK for browser applications",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "publish": "npm publish --access public"
+  },
+  "keywords": ["tracking", "analytics", "sdk", "cliq"],
+  "author": "Cliq Digital",
+  "license": "MIT",
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^3.3.0"
+  }
+}
